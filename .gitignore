@@ -33,3 +33,6 @@
 
 # Added by JDN
 myWiFi.h
+.pio
+.vscode
+hold
